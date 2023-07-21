@@ -1,0 +1,786 @@
+{
+    "hites": {
+        "santiago": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Ahumada 390",
+                    "Dirección": "Ahumada 390"
+                },
+                {
+                    "Nombre": "Hites Alameda 757",
+                    "Dirección": "Alameda 757"
+                },
+                {
+                    "Nombre": "Hites Estación Central",
+                    "Dirección": "Sazie 2935"
+                },
+                {
+                    "Nombre": "Hites Maipú",
+                    "Dirección": "5 De Abril 33"
+                },
+                {
+                    "Nombre": "Hites Melipilla",
+                    "Dirección": "Ortuz, Intersección Serrano"
+                },
+                {
+                    "Nombre": "Hites Outlet Maipú",
+                    "Dirección": "Avda. Lo Espejo 943, Vivo Outlet"
+                },
+                {
+                    "Nombre": "Hites Paseo Puente 640",
+                    "Dirección": "Paseo Puente 640, Santiago Centro"
+                },
+                {
+                    "Nombre": "Hites Paseo Puente 696",
+                    "Dirección": "Paseo Puente 696, Santiago Centro"
+                },
+                {
+                    "Nombre": "Hites Puente Alto 175",
+                    "Dirección": "Concha Y Toro 175"
+                },
+                {
+                    "Nombre": "Hites Quilicura",
+                    "Dirección": "Calle O'higgins 581"
+                },
+                {
+                    "Nombre": "Hites San Bernardo",
+                    "Dirección": "Eyzaguirre 702"
+                }
+            ]
+        },
+        "tarapaca": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Iquique",
+                    "Dirección": "Tarapaca 401 401"
+                }
+            ]
+        },
+        "antofagasta": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Antofagasta",
+                    "Dirección": "Latorre 2661"
+                }
+            ]
+        },
+        "atacama": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Tienda Copiapó",
+                    "Dirección": "Chacabuco 373"
+                }
+            ]
+        },
+        "coquimbo": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Coquimbo",
+                    "Dirección": "Baquedano 86 86"
+                },
+                {
+                    "Nombre": "Hites La Serena",
+                    "Dirección": "Gregorio Cordovez 435"
+                },
+                {
+                    "Nombre": "Hites Ovalle",
+                    "Dirección": "Paseo Vic. Mackenna 261"
+                }
+            ]
+        },
+        "arica": {
+            "Direcciones": [
+                {
+                    "Nombre": "No hay puntos de retiro para la opción seleccionada",
+                    "Dirección": ""
+                }
+            ]
+        },
+        "valparaiso": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Expo2-valparaíso",
+                    "Dirección": "Avda Errazuriz 629, Local 123"
+                },
+                {
+                    "Nombre": "Hites Quilpué",
+                    "Dirección": "Diego Portales 867, Local 1"
+                }
+            ]
+        },
+        "ohiggins": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Rancagua",
+                    "Dirección": "Independencia 756"
+                }
+            ]
+        },
+        "maule": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Curicó",
+                    "Dirección": "Arturo Prat 630"
+                },
+                {
+                    "Nombre": "Hites Linares",
+                    "Dirección": "Independencia 470"
+                },
+                {
+                    "Nombre": "Hites Tienda Talca",
+                    "Dirección": "Uno Sur 1620"
+                }
+            ]
+        },
+        "biobio": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Concepción 2",
+                    "Dirección": "Barros Arana 721"
+                },
+                {
+                    "Nombre": "Hites Los Ángeles",
+                    "Dirección": "Colon 338"
+                }
+            ]
+        },
+        "araucania": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Temuco",
+                    "Dirección": "Manuel Montt 975"
+                }
+            ]
+        },
+        "lagos": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Osorno",
+                    "Dirección": "Eleuterio Ramirez 1140"
+                },
+                {
+                    "Nombre": "Hites Puerto Montt",
+                    "Dirección": "Juan Soler Manfredin S/n"
+                }
+            ]
+        },
+        "aisen": {
+            "Direcciones": [
+                {
+                    "Nombre": "No hay puntos de retiro para la opción seleccionada",
+                    "Dirección": ""
+                }
+            ]
+        },
+        "rios": {
+            "Direcciones": [
+                {
+                    "Nombre": "No hay puntos de retiro para la opción seleccionada",
+                    "Dirección": ""
+                }
+            ]
+        },
+        "magallanes": {
+            "Direcciones": [
+                {
+                    "Nombre": "No hay puntos de retiro para la opción seleccionada",
+                    "Dirección": ""
+                }
+            ]
+        },
+        "nuble": {
+            "Direcciones": [
+                {
+                    "Nombre": "Hites Chillán",
+                    "Dirección": "Av.isabel Riquelme 709"
+                }
+            ]
+        }
+    },
+    "otros": {
+        "santiago": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Buin",
+                    "Dirección": "Calle José Manuel Balmaceda 899"
+                },
+                {
+                    "Nombre": "Starken Cerrillos",
+                    "Dirección": "Av. Pedro Aguirre Cerda 4298"
+                },
+                {
+                    "Nombre": "Starken Clavero (Plaza Puente Alto)",
+                    "Dirección": "Clavero 80 Loc.2"
+                },
+                {
+                    "Nombre": "Starken Escuela Militar",
+                    "Dirección": "General Francisco Barcelo 40, L1 L2"
+                },
+                {
+                    "Nombre": "Starken Franklin Stgo.",
+                    "Dirección": "Franklin 549"
+                },
+                {
+                    "Nombre": "Starken Gran Avenida",
+                    "Dirección": "Leon Prado 1061, Parada 13 Gran Avenida"
+                },
+                {
+                    "Nombre": "Starken La Florida",
+                    "Dirección": "Av.americo Vespucio 7500"
+                },
+                {
+                    "Nombre": "Starken Lo Prado",
+                    "Dirección": "San Pablo 6000, Local B"
+                },
+                {
+                    "Nombre": "Starken Los Militares Metro Manquehue",
+                    "Dirección": "Los Militares 5951, Local 4"
+                },
+                {
+                    "Nombre": "Starken Macul",
+                    "Dirección": "Macul 2594"
+                },
+                {
+                    "Nombre": "Starken Maipú Stgo (Belarmino Osorio)",
+                    "Dirección": "Belarmin Osorio 13"
+                },
+                {
+                    "Nombre": "St Manuel Montt",
+                    "Dirección": "Providencia 1308 Local 9"
+                },
+                {
+                    "Nombre": "Starken Matta",
+                    "Dirección": "Vicuña Mackenna 1221, L2b"
+                },
+                {
+                    "Nombre": "Starken Mirador",
+                    "Dirección": "Vicuña Mackenna Oriente 6331, Local 3, Interior Unimarc"
+                },
+                {
+                    "Nombre": "Starken Padre Hurtado",
+                    "Dirección": "Camino San Alberto Hurtado 1630, Local 5"
+                },
+                {
+                    "Nombre": "Starken Providencia",
+                    "Dirección": "Eliodoro Yanez 1550"
+                },
+                {
+                    "Nombre": "Starken Pudahuel",
+                    "Dirección": "San Pablo 8556 A-1"
+                },
+                {
+                    "Nombre": "Starken Quinta Normal",
+                    "Dirección": "Mapocho 4108"
+                },
+                {
+                    "Nombre": "Starken Ricardo Lyon",
+                    "Dirección": "Avda.providencia # 2210"
+                },
+                {
+                    "Nombre": "Starken San Diego",
+                    "Dirección": "Arturo Prat 1113"
+                },
+                {
+                    "Nombre": "Starken San Pablo",
+                    "Dirección": "San Pablo 2353"
+                },
+                {
+                    "Nombre": "Starken Santiago Gabriela Oriente",
+                    "Dirección": "Avda.gabriela # 02710 Local 3"
+                },
+                {
+                    "Nombre": "Starken Stgo. el Bosque",
+                    "Dirección": "Gran Avda.jose Miguel Carrera #10750"
+                },
+                {
+                    "Nombre": "Starken Stgo.iquique 3334",
+                    "Dirección": "Obispa Manuel Umana 722-724-732-734-736-746"
+                },
+                {
+                    "Nombre": "Starken Stgo. Juan Moya",
+                    "Dirección": "Juan Moya 22"
+                },
+                {
+                    "Nombre": "Starken Stgo.la Cisterna",
+                    "Dirección": "Gran Avda. Jose Miguel Carrera 6660,paradero 18 Local 3 Y 4, La Cisterna"
+                },
+                {
+                    "Nombre": "Starken Stgo. Pajaritos Carga",
+                    "Dirección": "Pajaritos 4741-local 2"
+                },
+                {
+                    "Nombre": "Starken Stgo.plaza Renca",
+                    "Dirección": "Avda.domingo Santa Maria 4084 L.3"
+                },
+                {
+                    "Nombre": "Starken Stgo.recoleta",
+                    "Dirección": "Avda.recoleta 2742, Local 8"
+                },
+                {
+                    "Nombre": "Starken Stgo.renca",
+                    "Dirección": "Domingo Santa Maria 2742"
+                },
+                {
+                    "Nombre": "Starken Stgo.roman Diaz 2236",
+                    "Dirección": "Roman Diaz 2236"
+                },
+                {
+                    "Nombre": "Starken Stgo.walker Martinez",
+                    "Dirección": "Waleker Martinez 1501"
+                },
+                {
+                    "Nombre": "Starken Teniente Cruz",
+                    "Dirección": "Avda.tte.cruz 570"
+                },
+                {
+                    "Nombre": "Starken Tobalaba Stgo.",
+                    "Dirección": "Avenida Nueva Providencia 2606 Local 4b"
+                },
+                {
+                    "Nombre": "Starken Valle Grande",
+                    "Dirección": "Av. Caupolican #9750, Local 2b, Sector Buenaventura"
+                }
+            ]
+        },
+        "tarapaca": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Alto hospicio",
+                    "Dirección": "Avda. La Pampa 3117, Local 2"
+                },
+                {
+                    "Nombre": "Starken Iquique Central Encargos",
+                    "Dirección": "Bajo Molle S/n Km 8,5"
+                },
+                {
+                    "Nombre": "Starken Iquique Esmeralda",
+                    "Dirección": "Esmeralda 594"
+                },
+                {
+                    "Nombre": "Starken Pozo Almonte Encargos",
+                    "Dirección": "Calle Comercio 463"
+                }
+            ]
+        },
+        "antofagasta": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Mejillones",
+                    "Dirección": "Avda. Almirante Latorre 583"
+                },
+                {
+                    "Nombre": "Starken San Pedro De Atacama",
+                    "Dirección": "Licancabur 154-c"
+                },
+                {
+                    "Nombre": "Starken Tal Tal",
+                    "Dirección": "Arturo Prat 631"
+                },
+                {
+                    "Nombre": "Starken Tocopilla",
+                    "Dirección": "Av. Pratt 2155"
+                }
+            ]
+        },
+        "atacama": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Caldera Centro",
+                    "Dirección": "Paseo Gana 241 A"
+                },
+                {
+                    "Nombre": "Starken Chañaral",
+                    "Dirección": "Merino Jarpa 1187"
+                },
+                {
+                    "Nombre": "Starken Diego De Almagro",
+                    "Dirección": "Avda. Juan Martínez 1404"
+                },
+                {
+                    "Nombre": "Starken El Salvador",
+                    "Direación": "Avda. Potrerillos Norte 719"
+                },
+                {
+                    "Nombre": "Starken Huasco",
+                    "Dirección": "Craig 260, Local B"
+                }
+            ]
+        },
+        "coquimbo": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Coquimbo Central Encargos",
+                    "Dirección": "Miraflorence 679"
+                },
+                {
+                    "Nombre": "Starken Coquimbo T.buses L29",
+                    "Directuon": " Varela 1300, Oficina 29"
+                },
+                {
+                    "Nombre": "Starken Illapel",
+                    "Dirección": "Independencia # 0152 Local 5 Y 6"
+                },
+                {
+                    "Nombre": "Starken La Serena Balmaceda",
+                    "Dirección": "Balmaceda 1475"
+                },
+                {
+                    "Nombre": "Starken La Serena Terminal",
+                    "Dirección": "Amunategi 107, Oficina 3"
+                },
+                {
+                    "Nombre": "Starken Los Vilos Centro",
+                    "Dirección": "Caupolicán 898"
+                },
+                {
+                    "Nombre": "Starken Ovalle",
+                    "Dirección": "Ariztia Oriente 769, Local 7"
+                },
+                {
+                    "Nombre": "Starken Salamanca",
+                    "Dirección": "Manuel Bulnes 214"
+                },
+                {
+                    "Nombre": "Starken Vicuña",
+                    "Dirección": "Gabriela Mistral 514"
+                }
+            ]
+        },
+        "arica": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Arica Central De Carga",
+                    "Dirección": "Av.brasil 121"
+                }
+            ]
+        },
+        "valparaiso": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Algarrobo",
+                    "Dirección": "Av Dr. Guillermo Mucke 1103"
+                },
+                {
+                    "Nombre": "Starken Cabildo",
+                    "Dirección": "Ferrocarril A Iquique 390"
+                },
+                {
+                    "Nombre": "Starken Casablanca",
+                    "Dirección": "Portales 810"
+                },
+                {
+                    "Nombre": "Starken Concón Carga",
+                    "Dirección": "Av.magallanes #1050 Local 11"
+                },
+                {
+                    "Nombre": "Starken Curauma",
+                    "Dirección": "Av. Curauma Norte 2961, Local 16"
+                },
+                {
+                    "Nombre": "Starken El Quisco",
+                    "Dirección": "Isidoro Dubournais 1350"
+                },
+                {
+                    "Nombre": "Starken La Calera",
+                    "Dirección": "Gonzalo Lizasoain 399, Local 10"
+                },
+                {
+                    "Nombre": "Starken La Ligua",
+                    "Dirección": "Papudo 485, Terminal La Ligua"
+                },
+                {
+                    "Nombre": "Starken Limache",
+                    "Dirección": "Av.palmira Romano Sur 405"
+                },
+                {
+                    "Nombre": "Starken Llolleo Av Chile",
+                    "Dirección": "Av. Chile 378"
+                },
+                {
+                    "Nombre": "Starken Los Andes Santa Teresa",
+                    "Dirección": "Av. Santa Teresa 737, Local 6"
+                },
+                {
+                    "Nombre": "Starken Papudo",
+                    "Dirección": "Esmeralda 260"
+                },
+                {
+                    "Nombre": "Starken Quillota",
+                    "Dirección": "La Concepción 383, Local 2"
+                },
+                {
+                    "Nombre": "Starken Quilpué Marga Marga",
+                    "Dirección": "Marga Marga 1672"
+                },
+                {
+                    "Nombre": "Starken Quilpué Terminal",
+                    "Dirección": "Blanco 1546"
+                },
+                {
+                    "Nombre": "Starken San Antonio Barrancas",
+                    "Dirección": "Uno Norte N  023  Local 15  Galería El  Faro"
+                },
+                {
+                    "Nombre": "Starken San Felipe Yungay",
+                    "Dirección": "Yungay 1311, San Felipe, Valparaíso"
+                },
+                {
+                    "Nombre": "Starken Valparaiso Brasil",
+                    "Dirección": "Av.brasil 1538 (Centro, Frente Al Arco Britanico)"
+                },
+                {
+                    "Nombre": "Starken Valparaiso Rodoviario",
+                    "Dirección": " Av.pedro Montt S/n Of.7 (Rodoviario)"
+                },
+                {
+                    "Nombre": "Starken Villa Alemana",
+                    "Dirección": "Maturana 195"
+                },
+                {
+                    "Nombre": "Starken Vina 1 Poniente",
+                    "Dirección": " 1 Poniente 1392 / Av Benidorm 622"
+                },
+                {
+                    "Nombre": "Starken Viña Batuco",
+                    "Dirección": "Av. Valparaiso 1195 Loc.1"
+                },
+                {
+                    "Nombre": "Starken Vina Central Carga",
+                    "Dirección": "Limache 3426, El Saltoo"
+                }
+            ]
+        },
+        "ohhigins": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Graneros",
+                    "Dirección": "Camino Real 265"
+                },
+                {
+                    "Nombre": "Starken Machalí",
+                    "Dirección": "Av San Juan 508 Local - 2"
+                },
+                {
+                    "Nombre": "Starken Rancagua Membrillar",
+                    "Dirección": "Membrillar 10 Local 7 Y 8"
+                },
+                {
+                    "Nombre": "Starken Rancagua O Carrol",
+                    "Dirección": "O'Carrol 1175"
+                },
+                {
+                    "Nombre": "Starken Rengo",
+                    "Dirección": "Condell 146"
+                },
+                {
+                    "Nombre": "Starken San Fernando",
+                    "Dirección": "Rancagua 835"
+                },
+                {
+                    "Nombre": "Starken Santa Cruz",
+                    "Dirección": "Avda.orlandi 26"
+                },
+                {
+                    "Nombre": "Starken San Vicente Tagua Tagua",
+                    "Dirección": "Arturo Prat 645"
+                }
+            ]
+        },
+        "maule": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Curicó Alameda",
+                    "Dirección": "Manzo De Velasco No 272"
+                },
+                {
+                    "Nombre": "Starken Linares",
+                    "Dirección": "Kurt Moller 199"
+                },
+                {
+                    "Nombre": "Starken Parral Carga",
+                    "Dirección": "Delicias Sur 562"
+                },
+                {
+                    "Nombre": "Starken Talca Terminal",
+                    "Dirección": "3 Sur 1962, Local 13"
+                },
+                {
+                    "Nombre": "Starken Talca Varoli",
+                    "Dirección": "Avda.san Miguel 2630"
+                }
+            ]
+        },
+        "biobio": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Chiguayante",
+                    "Dirección": "Bernardo O'Higgins 2681"
+                },
+                {
+                    "Nombre": "Starken Concepción Camilo Henríquez",
+                    "Dirección": "Camilo Henriquez 2625 Terminal"
+                },
+                {
+                    "Nombre": "Starken Concepción San Pedro De La Paz",
+                    "Dirección": "Pedro Aguirre Cerda 881"
+                },
+                {
+                    "Nombre": "Starken Concepción Tucapel",
+                    "Dirección": "Tucapel 530"
+                },
+                {
+                    "Nombre": "Starken Coronel",
+                    "Dirección": "Sotomayor 656"
+                },
+                {
+                    "Nombre": "Starken Los Ángeles Central Carga",
+                    "Dirección": "Av. Sor Vicenta 2113"
+                },
+                {
+                    "Nombre": "Starken Los Ángeles Centro",
+                    "Dirección": "Caupolican 583"
+                },
+                {
+                    "Nombre": "Starken Talcahuano",
+                    "Dirección": " Blanco Encalada 138, Local 04 Terminal"
+                },
+                {
+                    "Nombre": "Starken Tome",
+                    "Dirección": "Sotomayor 1080"
+                }
+            ]
+        },
+        "nuble": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Chillán Central Carga",
+                    "Dirección": "Longitudinal Sur 0113"
+                },
+                {
+                    "Nombre": "Starken Sn.carlos Tnal",
+                    "Dirección": "Panamericana Norte 733"
+                }
+            ]
+        },
+        "araucania": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken Labranza",
+                    "Dirección": "Av.las Perdices 547 Temuco, Labranza"
+                },
+                {
+                    "Nombre": "Starken Lautaro Carga",
+                    "Dirección": "Ohiggins 1254"
+                },
+                {
+                    "Nombre": "Starken Loncoche Carga",
+                    "Dirección": "Avenida Villarica 300-j Local 10"
+                },
+                {
+                    "Nombre": "Starken Padre Las Casas",
+                    "Dirección": "Maquehue 1244 Local 4 Padre Las Casas"
+                },
+                {
+                    "Nombre": "Starken Pitrufquen T/b",
+                    "Dirección": "Bernardo O'Higgins 520"
+                },
+                {
+                    "Nombre": "Starken Pucon T/b",
+                    "Dirección": "O'Higgins 910"
+                },
+                {
+                    "Nombre": " Starken Temuco A.varas",
+                    "Dirección": "Antonio Varas 609"
+                },
+                {
+                    "Nombre": "Starken Temuco Fundo El Carmen",
+                    "Dirección": "Av.luis Durand 02175 Local 106"
+                },
+                {
+                    "Nombre": "Starken Temuco P.neruda",
+                    "Dirección": "Pablo Neruda 02155 Local 3"
+                },
+                {
+                    "Nombre": "Starken Temuco R. Ortega",
+                    "Dirección": " Rudecindo Ortega 01580"
+                },
+                {
+                    "Nombre": "Starken Toltén",
+                    "Dirección": "Ohiggins 405-c"
+                },
+                {
+                    "Nombre": "Starken Victoria",
+                    "Dirección": "Avda.arturo Prat 1007"
+                },
+                {
+                    "Nombre": "Starken Villarrica T/b",
+                    "Dirección": "Anfiï¿½n Muï¿½oz 657"
+                }
+            ]
+        },
+        "rios": {
+            "Direcciones": [
+                {
+                    "Nombre": "Starken La Unión",
+                    "Dirección": "Arturo Prat 833"
+                },
+                {
+                    "Nombre": "Starken Rio Bueno Tb",
+                    "Dirección": "Esmeralda 1481"
+                },
+                {
+                    "Nombre": "Starken Valdivia Av.españa",
+                    "Dirección": "Av. España 450"
+                },
+                {
+                    "Nombre": "Starken Valdivia Central De Carga",
+                    "Dirección": "Ramón Picarte 1119"
+                }
+            ]
+        },
+        "lagos": {
+            "Direcciones": [
+              {
+                "Nombre": "Starken Ancud",
+                "Dirección": "Chacabuco 790"
+              },
+              {
+                "Nombre": "Starken Osorno Central Carga",
+                "Dirección": "Los Carrera 1387"
+              },
+              {
+                "Nombre": "Starken Osorno Rahue",
+                "Dirección": "Republica 538 Local 2"
+              },
+              {
+                "Nombre": "Starken Pto.montt Alcalde",
+                "Dirección": "Alcalde 538"
+              },
+              {
+                "Nombre": "Starken Pto Montt Alerce",
+                "Dirección": "Gabriela Mistral 939 Local 6 Alerce,"
+              },
+              {
+                "Nombre": "Starken Puerto Varas Encomiendas",
+                "Dirección": "Del Salvador 1093"
+              }
+            ]
+          },      
+        "aisen": {
+            "Direcciones": [
+                {
+                    "Nombre": "No hay puntos de retiro para la opción seleccionada",
+                    "Dirección": ""
+                }
+            ]
+        },
+        "magallanes": {
+            "Direcciones": [
+                {
+                    "Nombre": "No hay puntos de retiro para la opción seleccionada",
+                    "Dirección": ""
+                }
+            ]
+        }
+    }
+}
