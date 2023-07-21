@@ -1,4 +1,5 @@
 const express = require("express");
+const port = 3000;
 
 const app = express();
 app.use(express.json());
@@ -9,4 +10,7 @@ const puntosRetiro = require("./routes/puntosRetiroRoutes");
 // Usar rutas
 app.use("/api/puntosRetiro", puntosRetiro);
 
-module.exports = app;
+// Iniciar el servidor
+app.listen(port, () => {
+    console.log(`Servidor escuchando en el puerto ${port}`);
+});
