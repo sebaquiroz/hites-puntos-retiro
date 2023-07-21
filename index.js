@@ -1,5 +1,4 @@
 const express = require("express");
-const port = process.env.PORT || 3000;
 
 const app = express();
 app.use(express.json());
@@ -10,7 +9,5 @@ const puntosRetiro = require("./routes/puntosRetiroRoutes");
 // Usar rutas
 app.use("/api/puntosRetiro", puntosRetiro);
 
-// Iniciar el servidor
-app.listen(port, () => {
-    console.log(`Servidor escuchando en el puerto ${port}`);
-});
+// Exportar la aplicación como una función serverless
+module.exports = app;
