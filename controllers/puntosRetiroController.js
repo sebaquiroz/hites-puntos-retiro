@@ -18,7 +18,15 @@ exports.puntosRetiro = async (req, res) => {
         // Comprobar si hay direcciones para mostrar
         if(start < direcciones.length) {
             let result = direcciones.slice(start, end);
-            res.status(200).send(result);
+
+            // Crear un objeto con la estructura deseada
+            let response = {};
+            for(let i = 0; i < result.length; i++) {
+                response[`Punto ${i+1}`] = result[i].Nombre;
+                response[`Dirección ${i+1}`] = result[i].Dirección;
+            }
+
+            res.status(200).send(response);
         } else {
             res.status(200).send({message: 'No hay más direcciones para mostrar'});
         }
