@@ -1,49 +1,49 @@
 {
-    "hites": {
+    "ítes": {
         "santiago": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Ahumada 390",
+                    "Nombre": "ítes Ahumada 390",
                     "Dirección": "Ahumada 390"
                 },
                 {
-                    "Nombre": "Hites Alameda 757",
+                    "Nombre": "ítes Alameda 757",
                     "Dirección": "Alameda 757"
                 },
                 {
-                    "Nombre": "Hites Estación Central",
+                    "Nombre": "ítes Estación Central",
                     "Dirección": "Sazie 2935"
                 },
                 {
-                    "Nombre": "Hites Maipú",
+                    "Nombre": "ítes Maipú",
                     "Dirección": "5 De Abril 33"
                 },
                 {
-                    "Nombre": "Hites Melipilla",
+                    "Nombre": "ítes Melipilla",
                     "Dirección": "Ortuz, Intersección Serrano"
                 },
                 {
-                    "Nombre": "Hites Outlet Maipú",
+                    "Nombre": "ítes Outlet Maipú",
                     "Dirección": "Avda. Lo Espejo 943, Vivo Outlet"
                 },
                 {
-                    "Nombre": "Hites Paseo Puente 640",
+                    "Nombre": "ítes Paseo Puente 640",
                     "Dirección": "Paseo Puente 640, Santiago Centro"
                 },
                 {
-                    "Nombre": "Hites Paseo Puente 696",
+                    "Nombre": "ítes Paseo Puente 696",
                     "Dirección": "Paseo Puente 696, Santiago Centro"
                 },
                 {
-                    "Nombre": "Hites Puente Alto 175",
+                    "Nombre": "ítes Puente Alto 175",
                     "Dirección": "Concha Y Toro 175"
                 },
                 {
-                    "Nombre": "Hites Quilicura",
+                    "Nombre": "ítes Quilicura",
                     "Dirección": "Calle O'higgins 581"
                 },
                 {
-                    "Nombre": "Hites San Bernardo",
+                    "Nombre": "ítes San Bernardo",
                     "Dirección": "Eyzaguirre 702"
                 }
             ]
@@ -51,7 +51,7 @@
         "tarapaca": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Iquique",
+                    "Nombre": "ítes Iquique",
                     "Dirección": "Tarapaca 401 401"
                 }
             ]
@@ -59,7 +59,7 @@
         "antofagasta": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Antofagasta",
+                    "Nombre": "ítes Antofagasta",
                     "Dirección": "Latorre 2661"
                 }
             ]
@@ -67,7 +67,7 @@
         "atacama": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Tienda Copiapó",
+                    "Nombre": "ítes Tienda Copiapó",
                     "Dirección": "Chacabuco 373"
                 }
             ]
@@ -75,15 +75,15 @@
         "coquimbo": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Coquimbo",
+                    "Nombre": "ítes Coquimbo",
                     "Dirección": "Baquedano 86 86"
                 },
                 {
-                    "Nombre": "Hites La Serena",
+                    "Nombre": "ítes La Serena",
                     "Dirección": "Gregorio Cordovez 435"
                 },
                 {
-                    "Nombre": "Hites Ovalle",
+                    "Nombre": "ítes Ovalle",
                     "Dirección": "Paseo Vic. Mackenna 261"
                 }
             ]
@@ -99,11 +99,11 @@
         "valparaiso": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Expo2-valparaíso",
+                    "Nombre": "ítes Expo2-valparaíso",
                     "Dirección": "Avda Errazuriz 629, Local 123"
                 },
                 {
-                    "Nombre": "Hites Quilpué",
+                    "Nombre": "ítes Quilpué",
                     "Dirección": "Diego Portales 867, Local 1"
                 }
             ]
@@ -111,7 +111,7 @@
         "ohiggins": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Rancagua",
+                    "Nombre": "ítes Rancagua",
                     "Dirección": "Independencia 756"
                 }
             ]
@@ -119,15 +119,15 @@
         "maule": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Curicó",
+                    "Nombre": "ítes Curicó",
                     "Dirección": "Arturo Prat 630"
                 },
                 {
-                    "Nombre": "Hites Linares",
+                    "Nombre": "ítes Linares",
                     "Dirección": "Independencia 470"
                 },
                 {
-                    "Nombre": "Hites Tienda Talca",
+                    "Nombre": "ítes Tienda Talca",
                     "Dirección": "Uno Sur 1620"
                 }
             ]
@@ -135,11 +135,11 @@
         "biobio": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Concepción 2",
+                    "Nombre": "ítes Concepción 2",
                     "Dirección": "Barros Arana 721"
                 },
                 {
-                    "Nombre": "Hites Los Ángeles",
+                    "Nombre": "ítes Los Ángeles",
                     "Dirección": "Colon 338"
                 }
             ]
@@ -147,7 +147,7 @@
         "araucania": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Temuco",
+                    "Nombre": "ítes Temuco",
                     "Dirección": "Manuel Montt 975"
                 }
             ]
@@ -155,11 +155,11 @@
         "lagos": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Osorno",
+                    "Nombre": "ítes Osorno",
                     "Dirección": "Eleuterio Ramirez 1140"
                 },
                 {
-                    "Nombre": "Hites Puerto Montt",
+                    "Nombre": "ítes Puerto Montt",
                     "Dirección": "Juan Soler Manfredin S/n"
                 }
             ]
@@ -191,7 +191,7 @@
         "nuble": {
             "Direcciones": [
                 {
-                    "Nombre": "Hites Chillán",
+                    "Nombre": "ítes Chillán",
                     "Dirección": "Av.isabel Riquelme 709"
                 }
             ]
